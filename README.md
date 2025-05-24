@@ -7,7 +7,7 @@
 Download file Installernya
 
 ```jsx
-https://github.com/foundergpi/custom-image-windows/blob/main/windows-server-autoinstaller.sh
+wget https://raw.githubusercontent.com/foundergpi/custom-image-windows/refs/heads/main/windows-server-autoinstaller.sh
 ```
 
 Beri permission ke file tersebut
