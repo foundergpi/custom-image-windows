@@ -34,7 +34,7 @@ case $choice in
     2)
         # Windows Server 2019
         img_file="windows2019.img"
-        iso_link="http://64.23.204.215/windows2019.iso"
+        iso_link="http://64.23.204.215/windows2019.img"
         iso_file="windows2019.iso"
         ;;
     3)
