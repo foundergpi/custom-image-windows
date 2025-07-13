@@ -61,7 +61,7 @@ case $choice in
     6)
         # Windows Server 2016
         img_file="windows11.img"
-        iso_link="http://35.185.181.105/Win11_24H2_English_x64.iso"
+        iso_link="http://35.185.181.105/WIN11.PRO.24H2.U16.X64.(WPE).ISO"
         iso_file="windows11.iso"
         ;;
     *)
