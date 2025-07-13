@@ -53,15 +53,15 @@ case $choice in
         iso_file="windows2022.iso"
         ;;
     5)
-        # Windows Server 2016
+        # Windows 10
         img_file="windows10.img"
         iso_link="http://152.42.232.70/gz%20belum%20jadi/WIN10.PRO.AIO.U27.X64.(WPE).ISO"
         iso_file="windows10.iso"
         ;;
     6)
-        # Windows Server 2016
+        # Windows 11
         img_file="windows11.img"
-        iso_link="http://35.185.181.105/WIN11.PRO.24H2.U16.X64.(WPE).ISO"
+        iso_link="http://35.185.181.105/WIN11.PRO.21H2.SUPERLITE+COMPACT.X64.(WPE)%20(1).ISO"
         iso_file="windows11.iso"
         ;;
     *)
